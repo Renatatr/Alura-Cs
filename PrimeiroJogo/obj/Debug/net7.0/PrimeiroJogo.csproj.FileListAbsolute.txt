@@ -1,0 +1,15 @@
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\bin\Debug\net7.0\PrimeiroJogo.exe
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\bin\Debug\net7.0\PrimeiroJogo.deps.json
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\bin\Debug\net7.0\PrimeiroJogo.runtimeconfig.json
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\bin\Debug\net7.0\PrimeiroJogo.dll
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\bin\Debug\net7.0\PrimeiroJogo.pdb
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.csproj.AssemblyReference.cache
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.AssemblyInfoInputs.cache
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.AssemblyInfo.cs
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.csproj.CoreCompileInputs.cache
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.dll
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\refint\PrimeiroJogo.dll
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.pdb
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\PrimeiroJogo.genruntimeconfig.cache
+C:\Users\renata.trintin\RiderProjects\Solution1\PrimeiroJogo\obj\Debug\net7.0\ref\PrimeiroJogo.dll
