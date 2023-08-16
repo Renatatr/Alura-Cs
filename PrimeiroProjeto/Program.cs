@@ -1,5 +1,6 @@
 ﻿// Screen Sound
 string mensagemTeste = "Bom vind@!";
+List<string> listaBandas = new List<string>{"a","b","c"};
 
 void ExibeMensagemInicial()
 {
@@ -27,9 +28,9 @@ void ExibirOpcoesMenu()
 
     switch (opcaoEsoclhidaNumerica)
     {
-        case 1: Console.WriteLine("Digitou " + opcaoEsoclhidaNumerica);
+        case 1: RegistrarBandas();
             break;
-        case 2: Console.WriteLine("Digitou " + opcaoEsoclhidaNumerica);
+        case 2: ListarBandas();
             break;
         case 3: Console.WriteLine("Digitou " + opcaoEsoclhidaNumerica);
             break;
@@ -43,5 +44,44 @@ void ExibirOpcoesMenu()
 
 }
 
+void RegistrarBandas()
+{
+    Console.Clear();
+    Console.WriteLine("++++++++++++++++++++++");
+    Console.WriteLine("Registro de Bandas");
+    Console.WriteLine("++++++++++++++++++++++");
+    Console.Write("Nome: ");
+    string nomeBanda = Console.ReadLine()!;
+    Console.WriteLine($"\nA banda {nomeBanda} foi registrada");
+    listaBandas.Add(nomeBanda);
+    Thread.Sleep(2000);
+    Console.Clear();
+    ExibirOpcoesMenu();
+}
+
+void ListarBandas()
+{
+    Console.Clear();
+    Console.WriteLine("++++++++++++++++++++++++++++");
+    Console.WriteLine("Lista de Bandas registradas");
+    Console.WriteLine("++++++++++++++++++++++++++++\n");
+
+    /*for (int i = 0; i < listaBandas.Count; i++)
+    {
+        Console.WriteLine($"Banda {listaBandas[i]}");
+    }*/
+
+    foreach (string banda in listaBandas)
+    {
+        Console.WriteLine($"Banda {banda}");
+    }
+    
+    Console.WriteLine("\nDigite qualquer tecla para retornar.");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesMenu();
+}
+
 ExibeMensagemInicial();
 ExibirOpcoesMenu();
+
