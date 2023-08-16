@@ -1,0 +1,15 @@
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\bin\Debug\net7.0\LacoRepeticao.exe
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\bin\Debug\net7.0\LacoRepeticao.deps.json
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\bin\Debug\net7.0\LacoRepeticao.runtimeconfig.json
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\bin\Debug\net7.0\LacoRepeticao.dll
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\bin\Debug\net7.0\LacoRepeticao.pdb
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.csproj.AssemblyReference.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.AssemblyInfoInputs.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.AssemblyInfo.cs
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.dll
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\refint\LacoRepeticao.dll
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.pdb
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\LacoRepeticao.genruntimeconfig.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\LacoRepeticao\obj\Debug\net7.0\ref\LacoRepeticao.dll
