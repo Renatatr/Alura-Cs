@@ -1,0 +1,15 @@
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\bin\Debug\net7.0\ManipulacaoLista.exe
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\bin\Debug\net7.0\ManipulacaoLista.deps.json
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\bin\Debug\net7.0\ManipulacaoLista.runtimeconfig.json
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\bin\Debug\net7.0\ManipulacaoLista.dll
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\bin\Debug\net7.0\ManipulacaoLista.pdb
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.csproj.AssemblyReference.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.AssemblyInfoInputs.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.AssemblyInfo.cs
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.csproj.CoreCompileInputs.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.dll
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\refint\ManipulacaoLista.dll
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.pdb
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ManipulacaoLista.genruntimeconfig.cache
+C:\Users\renata.trintin\RiderProjects\Alura-Cs\ManipulacaoLista\obj\Debug\net7.0\ref\ManipulacaoLista.dll

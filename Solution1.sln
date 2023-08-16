@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroJogo", "PrimeiroJog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoRepeticao", "LacoRepeticao\LacoRepeticao.csproj", "{009464AA-9F9D-4C76-AE7D-12AF78863423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoLista", "ManipulacaoLista\ManipulacaoLista.csproj", "{36DBB516-5B94-4C4B-B0FA-191DB439EA6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{009464AA-9F9D-4C76-AE7D-12AF78863423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{009464AA-9F9D-4C76-AE7D-12AF78863423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{009464AA-9F9D-4C76-AE7D-12AF78863423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DBB516-5B94-4C4B-B0FA-191DB439EA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DBB516-5B94-4C4B-B0FA-191DB439EA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DBB516-5B94-4C4B-B0FA-191DB439EA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DBB516-5B94-4C4B-B0FA-191DB439EA6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
