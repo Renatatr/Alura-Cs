@@ -19,6 +19,8 @@ void ExibeMensagemInicial()
 
 void ExibirOpcoesMenu()
 {
+    ExibeMensagemInicial();
+    
     Console.WriteLine("1 - registrar banda");
     Console.WriteLine("2 - Listar banda");
     Console.WriteLine("3 - Avaliar banda");
@@ -37,7 +39,7 @@ void ExibirOpcoesMenu()
             break;
         case 3: AvaliarBanda();
             break;
-        case 4: Console.WriteLine("Digitou " + opcaoEsoclhidaNumerica);
+        case 4: ExibirNotaMedia();
             break;
         case 0: Console.WriteLine("Fechando");
             break;
@@ -109,6 +111,27 @@ void AvaliarBanda()
     ExibirOpcoesMenu();
 }
 
-ExibeMensagemInicial();
+void ExibirNotaMedia()
+{
+    Console.Clear();
+    ExibirTitiloOpcao("Nota Média");
+    Console.Write("digite o nome da banda que quer ver a média: ");
+    string nomeBanda = Console.ReadLine()!;
+    if (bandasRegistradas.ContainsKey(nomeBanda))
+    {
+        double mediaNota = bandasRegistradas[nomeBanda].Average();
+        Console.WriteLine($"Nota média da banda {nomeBanda}: {mediaNota}");
+
+    } else
+    {
+        Console.WriteLine($"a banda {nomeBanda} não foi encontrada");
+    }
+    
+    Console.WriteLine("Digite qualquer tecla para retornar.");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesMenu();
+}
+
 ExibirOpcoesMenu();
 
